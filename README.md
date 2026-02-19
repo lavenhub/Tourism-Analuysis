@@ -7,7 +7,7 @@ through an interactive Streamlit application.
 ---
 ## 📸 System Preview
 
-![SiloGuard Dashboard](webpage_image.png)
+![SiloGuard Dashboard](webpage_streamlit.png)
 
 ---
 ## 🎯 Objectives
