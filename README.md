@@ -5,7 +5,11 @@ personalized recommendations, visit mode classification, and rating prediction
 through an interactive Streamlit application.
 
 ---
+## 📸 System Preview
 
+![SiloGuard Dashboard](webpage_image.png)
+
+---
 ## 🎯 Objectives
 
 | Task | Description | Target |
