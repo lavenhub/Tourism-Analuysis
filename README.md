@@ -83,4 +83,4 @@ streamlit run app.py
 
 ## 👤 Author
 
-**Your Name** · [LinkedIn](#) · [GitHub](#)
+**lavish Patil** · [www.linkedin.com/in/lavish-patil-283734325](#) · [(https://github.com/lavenhub)](#)
